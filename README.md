@@ -1,7 +1,7 @@
 ## Hi there, I am Kübra 👋 
 ___
 ### I am a Computer Science student at Bursa Technical University
-![](https://komarev.com/ghpvc/?username=kubraturkoglu)
+
 
 
 * 🔭 I’m currently working on Teknofest UAV Project.
@@ -11,6 +11,7 @@ ___
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kubraturkoglu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+![](https://komarev.com/ghpvc/?username=kubraturkoglu)
 <!--
 **kubraturkoglu/kubraturkoglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
