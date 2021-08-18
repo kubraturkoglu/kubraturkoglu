@@ -1,4 +1,4 @@
- ##                                                                          Hi there, I am Kübra 👋 
+## Hi there, I am Kübra 👋 
 ___
 ### I am a Computer Science student at Bursa Technical University
 
