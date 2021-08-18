@@ -8,10 +8,6 @@ ___
 *  🌱 I’m currently learning C# , JavaScript and Embedded systems.
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kubraturkoglu)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kubraturkoglu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
