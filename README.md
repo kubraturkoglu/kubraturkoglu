@@ -1,6 +1,7 @@
 ## Hi there, I am Kübra 👋 
 ___
 ### I am a Computer Science student at Bursa Technical University
+![](https://komarev.com/ghpvc/?username=kubraturkoglu)
 
 
 * 🔭 I’m currently working on Teknofest UAV Project.
