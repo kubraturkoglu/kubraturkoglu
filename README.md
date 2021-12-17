@@ -18,7 +18,7 @@ ___
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Teknofest UAV Project.
-- 🌱 I’m currently learning C# , JavaScript and Embedded systems.
+- 🌱 I’m currently learning C# and Embedded systems.
 
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
