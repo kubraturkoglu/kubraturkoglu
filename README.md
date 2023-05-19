@@ -3,9 +3,7 @@
 
 
 
-* 🔭 I’m currently working on Teknofest UAV Project.
-
-*  🌱 I’m currently learning C# , JavaScript and Embedded systems.
+*  🌱 I’m currently learning C#, React, Angular.
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kubraturkoglu&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
